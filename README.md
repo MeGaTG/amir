@@ -123,6 +123,6 @@ cd cd NOD32-BOT
 ================
 [BehroozYaghi](https://telegram.me/Behroozyaghi)
 
-[**Support Groups**]([BehroozYaghi](https://telegram.me/Behroozyaghi))
+[**Support Groups**](https://telegram.me/joinchat/CtwWQD0ZfxNIPuaid_Zk9Q)
 
 **[Channel](https://telegram.me/Nod32Team)**
