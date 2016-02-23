@@ -1,4 +1,4 @@
-Unofficial Bot
+*NOD32Team
 ============
  **برایـ ساختنـ باتـ انتی اسپم مراحل زیر رو انجامـ بدید**
 
@@ -20,7 +20,7 @@ Unofficial Bot
 ============
 خب در این مرحله شما باید ادرس پیج مارو وارد کنید یعنی این ادرس 
 
-**https://github.com/pAyDaAr/Iranian_Bot**
+**https://github.com/BH-YAGHI/NOD32-BOT.git**
 
 ![testtt](http://s3.picofile.com/file/8221048884/%D9%8264%D8%BA.png)
 
@@ -38,7 +38,7 @@ Unofficial Bot
 
 خب الان باید شما فایلو ادیت کنید 
 
-به لاین 230 میرید و 
+به لاین 248 میرید و 
 
 به جای our id 
 
@@ -53,6 +53,7 @@ Unofficial Bot
 **البته وی پی اس های رایگانم وجود داره که محدودیت خاصی داره**
 
 **http://koding.com**
+**http://c9.io** [filter]
 
 **خب اینجا ثبت نام میکنید  بعد از ثبت نام وارد  صفحه کارتون میشید و یه فایل درست میکنید از اون فایل ترمینال میگیرید**
 
@@ -75,8 +76,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ```bash
 cd $HOME
-git clone https://github.com/pAyDaAr/Iranian_Bot.git
-cd Iranian_Bot
+git clone https://github.com/BH-YAGHI/NOD32-BOT.git
+cd NOD32-BOT
 ./launch.sh install
 ./launch.sh
 ```
@@ -84,21 +85,21 @@ cd Iranian_Bot
 
 **شما باید ادرس زیر رو ادیت کنید**
 
-**https://github.com/pAyDaAr/Iranian_Bot.git**
+**https://github.com/BH-YAGHI/NOD32-BOT.git**
 
 شما باید به جای
 
-PAydaar ای دی اک گیتابتون و
+BH-YAGHI ای دی اک گیتابتون و
  
-به جای iranain_bot
+به جای cd NOD32-BOT
  
 اسم فایل خودتون رو وارد کنید
 
 و در این کد
 
-cd Iranian_Bot 
+cd cd NOD32-BOT
 
-به جای iranian_bot
+به جای cd NOD32-BOT
 
 اسم فایل خودتون رو وارد کنید و سورس شما کامل میشه
 
@@ -118,10 +119,8 @@ cd Iranian_Bot
 
 تماس با ما
 ================
-[AmIr_PayDaAr](https://telegram.me/Amir_paydaar)
+[BehroozYaghi](https://telegram.me/Behroozyaghi)
 
-and my friend [hacker13v](https://telegram.me/hacker13v)
+[**Support Groups**]([BehroozYaghi](https://telegram.me/Behroozyaghi)
 
-[**Support With Group**](https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA)
-
-**https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA**
+**[Channel](https://telegram.me/Nod32Team)**
